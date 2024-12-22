@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Saba</h1>
-<h3 align="center">A passionate software tester and developer in my third year of Computer Science. I love crafting user-friendly apps, particularly for health-related projects, where technology meets well-being. Exploring AI, data science, and agile development fuels my drive to create meaningful solutions. Let's innovate together!</h3>
+<h3 align="center">A passionate software tester and developer in my third year of Computer Science. I love crafting user-friendly apps, particularly for health-related projects, where technology meets well-being. Exploring AI, data science, and agile development fuels my drive to create meaningful solutions. <br> Let's innovate together!</h3>
 
 <img align="right" alt="Coding" width="400" src= "https://github.com/SBerenji/SBerenji/blob/main/Coding.gif">
 
