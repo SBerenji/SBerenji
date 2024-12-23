@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src= "https://github.com/SBerenji/SBerenji/blob/main/Coding.gif">
 
-- 🔭 I’m currently working on [SnapScribe](https://github.com/SBerenji/SnapScribe)
+- 🔭 I’m currently working on [SnapScribe](https://github.com/SBerenji/SnapScribe) and [Mini-Chatbot](https://github.com/SBerenji/Mini_Chatbot)
 
 - 📫 How to reach me **sberenji4567@conestogac.on.ca**
 
