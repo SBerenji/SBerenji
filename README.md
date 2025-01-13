@@ -5,11 +5,11 @@
 
 <img align="right" alt="Coding" width="400" src= "https://github.com/SBerenji/SBerenji/blob/main/Coding.gif">
 
-- 🔭 I’m currently working on [SnapScribe](https://github.com/SBerenji/SnapScribe) and [Mini-Chatbot](https://github.com/SBerenji/Mini_Chatbot)
+- 🔭 I’m currently working on [PhotoOrganizer](https://github.com/SBerenji/PhotoOrganizer) and [Mini-Chatbot](https://github.com/SBerenji/Mini_Chatbot)
 
 - 📫 How to reach me **sberenji4567@conestogac.on.ca**
 
-- ⚡ Fun fact **English is my third language, and when I'm not coding, you'll find me playing the guitar!**
+- ⚡ Fun fact **English is my third language, and when I'm not coding, you'll find me playing the guitar or taking photos with my camera!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
